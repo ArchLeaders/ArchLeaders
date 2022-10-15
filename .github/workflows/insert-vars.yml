@@ -1,0 +1,17 @@
+name: Template Variables in Markdown
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  markdown:
+    name: markdown-marker
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: bdougie/variables-in-markdown@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
