@@ -16,6 +16,11 @@ $-->
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to extract NSP/XCI files with yuzu](https://www.youtube.com/watch?v=oUq0zecwHjY)
+- [BOTW Mod - PaletteSel Test Rooms - World Enviroments](https://www.youtube.com/watch?v=MDKuxDUZefU)
+- [Ravio&#39;s Scarf - Mod Showcase](https://www.youtube.com/watch?v=8f8MexHvBkM)
+- [King Rhoam&#39;s Crown Location - BotW Mod for WiiU and Switch](https://www.youtube.com/watch?v=mk3x-J-sXK8)
+- [Amiibo Items in Chests v2 - Trouser of Twilight](https://www.youtube.com/watch?v=hND6whWHVSY)
 <!-- YOUTUBE:END -->
 
 [website]: https://archleaders.github.io
