@@ -1,8 +1,5 @@
 name: Latest YouTube Videos
 on:
-  schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,4 +12,4 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCuK9tInOEH5yJKeq3PoSgCA"
-          template: "[$title]($url) &nbsp; "
+          template: "[$title]($url)&nbsp;|&nbsp;"
