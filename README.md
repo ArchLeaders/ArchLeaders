@@ -45,7 +45,5 @@
 
 <a href="https://www.youtube.com/watch?v=oUq0zecwHjY" target="_blank"><img height="200" src="https://img.youtube.com/vi/oUq0zecwHjY/0.jpg" /></a> &nbsp; <a href="https://www.youtube.com/watch?v=MDKuxDUZefU" target="_blank"><img height="200" src="https://img.youtube.com/vi/MDKuxDUZefU/0.jpg" /></a> &nbsp; <a href="https://www.youtube.com/watch?v=8f8MexHvBkM" target="_blank"><img height="200" src="https://img.youtube.com/vi/8f8MexHvBkM/0.jpg" /></a>
 
-<!-- YOUTUBE:START -->[How to extract NSP/XCI files with yuzu](https://www.youtube.com/watch?v=oUq0zecwHjY) &nbsp;[BOTW Mod - PaletteSel Test Rooms - World Enviroments](https://www.youtube.com/watch?v=MDKuxDUZefU) &nbsp;[Ravio&#39;s Scarf - Mod Showcase](https://www.youtube.com/watch?v=8f8MexHvBkM) &nbsp;[King Rhoam&#39;s Crown Location - BotW Mod for WiiU and Switch](https://www.youtube.com/watch?v=mk3x-J-sXK8) &nbsp;[Amiibo Items in Chests v2 - Trouser of Twilight](https://www.youtube.com/watch?v=hND6whWHVSY) &nbsp;<!-- YOUTUBE:END -->
-
 </div>
 <br>
