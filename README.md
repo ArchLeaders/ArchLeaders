@@ -3,13 +3,13 @@
 </p>
 
 <p align="center" style="text-align: center;">
-  <a href="https://youtube.com/ArchLeaders">
+  <a href="https://youtube.com/ArchLeaders?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCuK9tInOEH5yJKeq3PoSgCA?style=for-the-badge&logoColor=C71B42&color=C71B42&labelColor=2A2C33&logo=youtube" alt="ArchLeaders' YouTube"/>
   </a> &nbsp;
   <a href="https://discord.gg/cbA3AWwfJj">
     <img src="https://img.shields.io/discord/825161394663456799?style=for-the-badge&logoColor=37C75E&color=37C75E&labelColor=2A2C33&logo=discord&label=discord" alt="ArchLeaders' Discord"/>
   </a> &nbsp;
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
+  <a href="https://archleaders.github.io/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&logoColor=5751FF&color=5751FF&labelColor=2A2C33&logo=github&label=website&message=work%20in%20progress" alt="ArchLeaders' Website"/>
   </a>
 </p>
