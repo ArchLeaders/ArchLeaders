@@ -43,7 +43,7 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=archleaders&theme=github-dark-blue&hide_border=true"> <img src="https://github-readme-stats.vercel.app/api?username=ArchLeaders&theme=github_dark&show_icons=true">
+<a href="https://github.com/ArchLeaders?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=archleaders&theme=github-dark-blue&hide_border=true"></a> <a href="https://github.com/ArchLeaders?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ArchLeaders&theme=github_dark&show_icons=true"></a>
 
 <br>
 
