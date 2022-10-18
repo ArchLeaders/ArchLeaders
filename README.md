@@ -39,11 +39,22 @@
 
 <br>
 
+### Stats & Contributions
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=archleaders&theme=github-dark-blue&hide_border=true"> <img src="https://github-readme-stats.vercel.app/api?username=ArchLeaders&theme=github_dark&show_icons=true">
+
+<br>
+
 ### Latest YouTube Videos
 
 <br>
 
 <a href="https://www.youtube.com/watch?v=oUq0zecwHjY" target="_blank"><img height="200" src="https://img.youtube.com/vi/oUq0zecwHjY/0.jpg" /></a> &nbsp; <a href="https://www.youtube.com/watch?v=MDKuxDUZefU" target="_blank"><img height="200" src="https://img.youtube.com/vi/MDKuxDUZefU/0.jpg" /></a> &nbsp; <a href="https://www.youtube.com/watch?v=8f8MexHvBkM" target="_blank"><img height="200" src="https://img.youtube.com/vi/8f8MexHvBkM/0.jpg" /></a>
 
+<br>
+
 </div>
+
 <br>
