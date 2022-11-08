@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="http://archleaders.github.io" target="_blank"><img src=".\img_dark.png" /></a>
+    <a href="http://archleaders.github.io" target="_blank"><img src=".\splash_screen.jpg" /></a>
 </p>
 
 <p align="center" style="text-align: center;">
