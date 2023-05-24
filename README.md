@@ -20,16 +20,16 @@
 
 ### Active Projects
 
-<!-- GingerAvalanche/BotwActorToolCSharp -->
+<!-- EXKing-Editor/EXKing-Editor -->
 <!-- ArchLeaders/Cead -->
-<!-- ArchLeaders/BotwModConverter -->
+<!-- TotkMods/Totk.ZstdTool -->
 
 <br>
 <p>
-<a href="https://github.com/GingerAvalanche"><b>GingerAvalanche</b></a> / <a href="https://github.com/GingerAvalanche/BotwActorToolCSharp">BotwActorToolCSharp</a>
+<a href="https://github.com/EXKing-Editor"><b>EXKing-Editor</b></a> / <a href="https://github.com/EXKing-Editor/EXKing-Editor">EXKing-Editor</a>
 </p>
 
-[![GitHub issues](https://img.shields.io/github/issues/GingerAvalanche/BotwActorToolCSharp?logoColor=red&color=red&logo=github&style=flat&labelColor=2A2C33)](https://github.com/GingerAvalanche/BotwActorToolCSharp/issues) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr/GingerAvalanche/BotwActorToolCSharp?style=flat&labelColor=2A2C33&logoColor=blue&color=blue&logo=github)](https://github.com/GingerAvalanche/BotwActorToolCSharp/pulls) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/GingerAvalanche/BotwActorToolCSharp?style=flat&labelColor=2A2C33&logoColor=5751FF&color=5751FF&logo=github)](https://github.com/GingerAvalanche/BotwActorToolCSharp/pulls?q=is%3Apr+is%3Aclosed) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/GingerAvalanche/BotwActorToolCSharp?style=flat&labelColor=2A2C33&logoColor=FFCB41&color=FFCB41&logo=github)](https://github.com/GingerAvalanche/BotwActorToolCSharp) 
+[![GitHub issues](https://img.shields.io/github/issues/EXKing-Editor/EXKing-Editor?logoColor=red&color=red&logo=github&style=flat&labelColor=2A2C33)](https://github.com/EXKing-Editor/EXKing-Editor/issues) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr/EXKing-Editor/EXKing-Editor?style=flat&labelColor=2A2C33&logoColor=blue&color=blue&logo=github)](https://github.com/EXKing-Editor/EXKing-Editor/pulls) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/EXKing-Editor/EXKing-Editor?style=flat&labelColor=2A2C33&logoColor=5751FF&color=5751FF&logo=github)](https://github.com/EXKing-Editor/EXKing-Editor/pulls?q=is%3Apr+is%3Aclosed) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/EXKing-Editor/EXKing-Editor?style=flat&labelColor=2A2C33&logoColor=FFCB41&color=FFCB41&logo=github)](https://github.com/EXKing-Editor/EXKing-Editor) 
 
 <br>
 <p>
@@ -40,10 +40,10 @@
 
 <br>
 <p>
-<a href="https://github.com/ArchLeaders"><b>ArchLeaders</b></a> / <a href="https://github.com/ArchLeaders/BotwModConverter">BotwModConverter</a>
+<a href="https://github.com/TotkMods"><b>TotkMods</b></a> / <a href="https://github.com/TotkMods/Totk.ZstdTool">Totk.ZstdTool</a>
 </p>
 
-[![GitHub issues](https://img.shields.io/github/issues/ArchLeaders/BotwModConverter?logoColor=red&color=red&logo=github&style=flat&labelColor=2A2C33)](https://github.com/ArchLeaders/BotwModConverter/issues) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr/ArchLeaders/BotwModConverter?style=flat&labelColor=2A2C33&logoColor=blue&color=blue&logo=github)](https://github.com/ArchLeaders/BotwModConverter/pulls) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/ArchLeaders/BotwModConverter?style=flat&labelColor=2A2C33&logoColor=5751FF&color=5751FF&logo=github)](https://github.com/ArchLeaders/BotwModConverter/pulls?q=is%3Apr+is%3Aclosed) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ArchLeaders/BotwModConverter?style=flat&labelColor=2A2C33&logoColor=FFCB41&color=FFCB41&logo=github)](https://github.com/ArchLeaders/BotwModConverter)
+[![GitHub issues](https://img.shields.io/github/issues/TotkMods/Totk.ZstdTool?logoColor=red&color=red&logo=github&style=flat&labelColor=2A2C33)](https://github.com/TotkMods/Totk.ZstdTool/issues) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr/TotkMods/Totk.ZstdTool?style=flat&labelColor=2A2C33&logoColor=blue&color=blue&logo=github)](https://github.com/TotkMods/Totk.ZstdTool/pulls) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/TotkMods/Totk.ZstdTool?style=flat&labelColor=2A2C33&logoColor=5751FF&color=5751FF&logo=github)](https://github.com/TotkMods/Totk.ZstdTool/pulls?q=is%3Apr+is%3Aclosed) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/TotkMods/Totk.ZstdTool?style=flat&labelColor=2A2C33&logoColor=FFCB41&color=FFCB41&logo=github)](https://github.com/TotkMods/Totk.ZstdTool)
 
 <br>
 
