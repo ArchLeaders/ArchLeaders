@@ -20,16 +20,16 @@
 
 ### Active Projects
 
-<!-- EXKing-Editor/EXKing-Editor -->
+<!-- NX-Editor/NxEditor -->
 <!-- ArchLeaders/Cead -->
 <!-- TotkMods/Totk.ZstdTool -->
 
 <br>
 <p>
-<a href="https://github.com/EXKing-Editor"><b>EXKing-Editor</b></a> / <a href="https://github.com/EXKing-Editor/EXKing-Editor">EXKing-Editor</a>
+<a href="https://github.com/NX-Editor"><b>NX-Editor</b></a> / <a href="https://github.com/NX-Editor/NxEditor">NxEditor</a>
 </p>
 
-[![GitHub issues](https://img.shields.io/github/issues/EXKing-Editor/EXKing-Editor?logoColor=red&color=red&logo=github&style=flat&labelColor=2A2C33)](https://github.com/EXKing-Editor/EXKing-Editor/issues) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr/EXKing-Editor/EXKing-Editor?style=flat&labelColor=2A2C33&logoColor=blue&color=blue&logo=github)](https://github.com/EXKing-Editor/EXKing-Editor/pulls) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/EXKing-Editor/EXKing-Editor?style=flat&labelColor=2A2C33&logoColor=5751FF&color=5751FF&logo=github)](https://github.com/EXKing-Editor/EXKing-Editor/pulls?q=is%3Apr+is%3Aclosed) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/EXKing-Editor/EXKing-Editor?style=flat&labelColor=2A2C33&logoColor=FFCB41&color=FFCB41&logo=github)](https://github.com/EXKing-Editor/EXKing-Editor) 
+[![GitHub issues](https://img.shields.io/github/issues/NX-Editor/NxEditor?logoColor=red&color=red&logo=github&style=flat&labelColor=2A2C33)](https://github.com/NX-Editor/NxEditor/issues) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr/NX-Editor/NxEditor?style=flat&labelColor=2A2C33&logoColor=blue&color=blue&logo=github)](https://github.com/NX-Editor/NxEditor/pulls) &nbsp; [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/NX-Editor/NxEditor?style=flat&labelColor=2A2C33&logoColor=5751FF&color=5751FF&logo=github)](https://github.com/NX-Editor/NxEditor/pulls?q=is%3Apr+is%3Aclosed) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/NX-Editor/NxEditor?style=flat&labelColor=2A2C33&logoColor=FFCB41&color=FFCB41&logo=github)](https://github.com/NX-Editor/NxEditor) 
 
 <br>
 <p>
